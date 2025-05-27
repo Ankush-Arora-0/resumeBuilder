@@ -138,7 +138,7 @@ export const Home = () => {
   return (
     <div className='home-page'>
       <h2>Resume Builder</h2>
-      <p>By Mohammad Faizan</p>
+      <p>Hazik Muzafar Naqash</p>
       <div className="main-box">
       <div className="left-box">
         <div className="input-box">
